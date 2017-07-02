@@ -1,4 +1,4 @@
-# :fire: :hatching_chick: firedux [![NPM version](https://badge.fury.io/js/firedux.svg)](http://badge.fury.io/js/firedux)  [![Build Status](https://travis-ci.org/adjohnson916/firedux.svg)](https://travis-ci.org/adjohnson916/firedux)  [![Firebase](https://raw.githubusercontent.com/firebase/firebase-chrome-extension/master/icons/icon48.png)](https://www.firebase.com) [![ReactJS](https://raw.githubusercontent.com/facebook/react/master/docs/img/logo_small.png)](https://facebook.github.io/react)
+# :fire: :hatching_chick: firedux [![NPM version](https://badge.fury.io/js/firedux.svg)](http://badge.fury.io/js/firedux)  [![Build Status](https://travis-ci.org/AndersDJohnson/firedux.svg)](https://travis-ci.org/AndersDJohnson/firedux)  [![Firebase](https://raw.githubusercontent.com/firebase/firebase-chrome-extension/master/icons/icon48.png)](https://www.firebase.com) [![ReactJS](https://raw.githubusercontent.com/facebook/react/master/docs/img/logo_small.png)](https://facebook.github.io/react)
 
 > Firebase + Redux for ReactJS
 
@@ -38,7 +38,7 @@ Dependencies:
 
 ## Use
 
-See [my TodoMVC example](https://github.com/adjohnson916/firedux-todomvc), the [tests](test/index.js), and below:
+See [my TodoMVC example](https://github.com/AndersDJohnson/firedux-todomvc), the [tests](test/index.js), and below:
 
 ```js
 import Firedux from 'firedux'
@@ -192,7 +192,7 @@ $ npm i -d && npm test
 
 ## Contributing
 
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/adjohnson916/firedux/issues/new).
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/AndersDJohnson/firedux/issues/new).
 
 In lieu of a formal styleguide, please:
 
@@ -204,12 +204,12 @@ In lieu of a formal styleguide, please:
 
 **Anders D. Johnson**
 
-+ [github/adjohnson916](https://github.com/adjohnson916)
-+ [twitter/adjohnson916](http://twitter.com/adjohnson916)
++ [github/AndersDJohnson](https://github.com/AndersDJohnson)
++ [twitter/AndersDJohnson](http://twitter.com/AndersDJohnson)
 
 ## License
 
-Copyright © 2015-2016 [Anders D. Johnson](https://github.com/adjohnson916)
+Copyright © 2015-2016 [Anders D. Johnson](https://github.com/AndersDJohnson)
 Released under the MIT license.
 
 ***
